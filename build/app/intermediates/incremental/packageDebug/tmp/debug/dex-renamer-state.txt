@@ -1,0 +1,4 @@
+#Fri May 07 12:40:52 YEKT 2021
+base.0=D\:\\Webdesign Year 3\\Flutter With Python\\flutter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
